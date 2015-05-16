@@ -1,0 +1,11 @@
+cave 50 50
+hwall 0 0 50
+vwall 0 0 50
+hwall 49 0 50
+vwall 0 49 50
+hwall 10 0 30
+hwall 20 10 20
+hwall 30 0 30
+hwall 40 20 20
+vwall 10 30 30
+vwall 30 10 19

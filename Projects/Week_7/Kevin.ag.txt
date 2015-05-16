@@ -1,0 +1,4 @@
+2012.11.30 09:00 14:00 | I have an afternoon commitment on the 30th
+2012.12.1  09:00 15:00 | I prefer morning meetings
+# Kevin always prefers morning, but can be available till 3, except for 
+# 30th of November.

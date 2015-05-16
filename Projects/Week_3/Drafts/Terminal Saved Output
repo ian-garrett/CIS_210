@@ -1,0 +1,19 @@
+Last login: Fri Jan 24 13:24:35 on ttys000
+128-223-223-80-wireless:~ iangarrett$ cd/Users/iangarrett/Desktop/Lab_Projects/Week_3 
+-bash: cd/Users/iangarrett/Desktop/Lab_Projects/Week_3: No such file or directory
+128-223-223-80-wireless:~ iangarrett$ cd /Users/iangarrett/Desktop/Lab_Projects/Week_3 
+128-223-223-80-wireless:Week_3 iangarrett$ python 3 days_till_final.py 2013 1 2 1 5
+python: can't open file '3': [Errno 2] No such file or directory
+128-223-223-80-wireless:Week_3 iangarrett$ python3 days_till_final.py 2013 1 2 1 5
+
+
+
+
+
+
+
+
+
+
+
+
